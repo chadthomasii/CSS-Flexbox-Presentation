@@ -36,10 +36,40 @@ html,body
     animation-duration: 1s;
     animation-iteration-count: infinite;
 
+}
 
 
+.outer
+{
+    width: 100%;
+    height: 80%;
+    background-color: #eeeeee;
+}
+
+.container
+{
+    width: 100%;
+    height: 80%;
+
+    display:flex;
+    
+  
+ 
  
 
+    
+}
+
+.item
+{
+    
+    
+    background:#0288d1;
+    font-size: 3em;
+    font-family: sans-serif;
+    color: #fff;
+    margin: 0.5em;
+    text-align: center;
 }
 
 
